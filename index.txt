@@ -1,0 +1,2 @@
+this is the index file
+this is secound line before first line was commited
